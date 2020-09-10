@@ -1,0 +1,28 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Lab_Rab_1_2_
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int a;
+            int b = 7;
+
+            string str = "Hello? World!!!";
+
+            a = 123;
+
+            Console.WriteLine("Значение пременной a равно {0}", a);
+            Console.WriteLine("а значение переменной b равно {0}", b);
+            Console.WriteLine("значение a+b = {0}+{1} = {2}", a, b, a + b);
+            Console.WriteLine(str);
+
+            Console.ReadKey();
+        }
+    }
+}
