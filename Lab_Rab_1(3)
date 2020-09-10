@@ -1,0 +1,25 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Lab_Rab_1_3_
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine(" Лабораторная работа №1. Разработка консольного приложения");
+            Console.WriteLine();
+            Console.WriteLine("Лунёва Марина Александровна");
+            Console.WriteLine("Группа: ИНС-б-о-18-1(2), 09.03.02");
+            Console.WriteLine("Дата рождения: 20.12.2000");
+            Console.WriteLine("Проживаю в ст. Советской Ставропольского кр.");
+            Console.WriteLine("Любимый предмет в школе: Физкультура");
+            Console.WriteLine("Хобби: рисование, чтение худож. литературы, создание коротких мультиков");
+
+            Console.ReadKey();
+        }
+    }
+}
