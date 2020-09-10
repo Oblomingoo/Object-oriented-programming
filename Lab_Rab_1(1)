@@ -1,0 +1,24 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Lab_rab_1_1_
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Лабораторная работа №1");
+            Console.WriteLine("");
+            Console.WriteLine("Выполнила: Лунёва Марина Александровна");
+            Console.WriteLine("Группа: ИНС-б-о-18-1(2)");
+            Console.WriteLine("Наименование ЛР: Структура консольного приложения");
+            Console.WriteLine("");
+            Console.WriteLine("для завершения работы программы нажмите любую лавишу...");
+
+            Console.ReadKey();
+        }
+    }
+}
